@@ -1,4 +1,4 @@
-# projeto-software-com-aprendizagem-de-maquina
+# projeto-software-com-aprendizagem-de-maquina para prever cancer de pulmoes com interface grafica
 O código fornecido implementa uma pipeline de machine learning para analisar um conjunto de dados relacionado a câncer de pulmão e realizar predições usando diversos modelos. Aqui está uma explicação detalhada de cada parte:
 
 ---
